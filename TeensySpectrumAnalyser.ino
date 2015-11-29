@@ -132,7 +132,7 @@ const float logScale = 0.14;  //Scale the logarithm curve deeper or shallower
 
 //Enable the GPS clock.
 //Comment out this whole line if no GPS is connected.
-#define ENABLE_GPSCLOCK
+//#define ENABLE_GPSCLOCK
 
 #ifdef ENABLE_GPSCLOCK
 //GPS baud rate.
