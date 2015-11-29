@@ -1,7 +1,7 @@
-# TeensySpectrumAnalyser
+# Teensy Audio Spectrum Analyser
 The Teensy Audio Spectrum Analyzer is a low-cost classic audio spectrum display with up to 128 bands.
 
-Project details on Hackaday
+Project details up on Hackaday
 http://hackaday.io/project/8599
 
 It displays a detailed picture of what you're hearing in real-time. It shows the changing spectrum of live input signals up to 16kHz.
