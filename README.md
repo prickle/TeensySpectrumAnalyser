@@ -7,7 +7,7 @@ It takes a mono analog RCA audio input (nominal 1v pp) and presents up to 128 ba
 
 You can easily observe the frequency characteristics of live music in real time. The spectral composition of acoustic signals become clearly visible.
 
-![Wiring Diagram](prickle.github.com/TeensySpectrumAnalyser/schematics/Spectrum_Wiring.png)
+![Wiring Diagram](https://raw.githubusercontent.com/prickle/TeensySpectrumAnalyser/master/schematics/Spectrum_Wiring.png)
 
 ----
 The display is constructed using low-cost red/green LED matrix modules. These modules can be daisy-chained together to make larger displays. The prototype used two modules for a 64 band spectrum but up to four modules should work ok (untested).
