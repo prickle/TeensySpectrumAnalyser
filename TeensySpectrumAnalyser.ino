@@ -148,7 +148,7 @@ const int m_timeZone = +11;
 
 //Uncomment this line to use a serial terminal (57600 baud) to see debugging
 //messages.
-#define SERIAL_DEBUG
+//#define SERIAL_DEBUG
 
 //-----------------------------------------------------------------------------------------------
 // Shouldn't need to change stuff below here
